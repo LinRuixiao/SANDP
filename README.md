@@ -42,7 +42,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |26|2022.07.01|付之笑||包晗|
 |27|2022.07.08|何平||杜杨凯|
 |28|2022.07.15|姜毅||付冲|
-|29|2022.07.22|林瑞潇||马哲|
+|29|2022.07.22|林瑞潇|CAFE: Catastrophic Data Leakage in Vertical Federated Learning, NeurIPS 2021|马哲|
 |30|2022.07.29|李泽宇||麻瓯勃|
 
 <!--
